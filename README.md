@@ -1,10 +1,5 @@
 English | [简体中文](./README.zh-CN.md)
-
-[![AUR license](https://img.shields.io/badge/license-LPPL--1.3c-blue.svg)](https://github.com/heywrcoding/UESTC_Lab_Report_LaTeX_Template)
-[![AUR license](https://img.shields.io/badge/platform-win--64%20%7C%20ctex-lightgrey.svg)](https://github.com/heywrcoding/UESTC_Lab_Report_LaTeX_Template)
-[![AUR license](https://img.shields.io/badge/version-v0.1-brightgreen.svg)](https://github.com/heywrcoding/UESTC_Lab_Report_LaTeX_Template)
-
-<h1 align="center">LaTeX Lab Report Template for UESTC Undergraduates</h1>
+This Repository is forked from https://github.com/heywrcoding/UESTC_Lab_Report_LaTeX_Template
 
 
 ---
@@ -42,7 +37,7 @@ Further experiments on Mac and Linux are expected.
 
 1.  Clone or download this repository to local environment. This command is suggested:
 
-        git clone https://github.com/heywrcoding/UESTC_Lab_Report_LaTeX_Template.git
+        git clone https://github.com/langsunny/HFUT_Lab_Report_LaTeX_Template
         
     Or click: **Clone or download -> Download Zip**
 
@@ -60,16 +55,4 @@ Further experiments on Mac and Linux are expected.
     
     You can see the [result](https://github.com/heywrcoding/UESTC_Lab_Report_LaTeX_Template/blob/master/lab%20report(zh-cn)/lab_report(zh_cn).pdf) of example lab report compiled on my machine.
 
-## Preview
--------------
 
-<img src="https://user-images.githubusercontent.com/28619915/49652409-f2b28d80-fa6c-11e8-9f03-cdba9b350650.png" width = 100% height = 100% div align=center />
-<img src="https://user-images.githubusercontent.com/28619915/49652410-f2b28d80-fa6c-11e8-977a-adce902a20c7.png" width = 100% height = 100% div align=center />
-<img src="https://user-images.githubusercontent.com/28619915/49652411-f34b2400-fa6c-11e8-931f-873f248c7041.png" width = 100% height = 100% div align=center />
-<img src="https://user-images.githubusercontent.com/28619915/49652412-f34b2400-fa6c-11e8-9b12-7feeac17286b.png" width = 100% height = 100% div align=center />
-
-    
-> About me, subscribe my  
-  Github：[Shufan Zhang](https://github.com/heywrcoding)  
-  Mail：[FoxMail](mailto:shufan_zhang@foxmail.com)  
-  I will appreciate your approval and stars!
